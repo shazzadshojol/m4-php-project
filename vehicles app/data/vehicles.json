@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Alpha Romeo",
+        "type": "car",
+        "price": "100000",
+        "image": "https:\/\/images.pexels.com\/photos\/210019\/pexels-photo-210019.jpeg?cs=srgb&dl=pexels-pixabay-210019.jpg&fm=jpg"
+    },
+    {
+        "name": "Toyota GTR",
+        "type": "car",
+        "price": "200000",
+        "image": "https:\/\/t3.ftcdn.net\/jpg\/01\/23\/52\/24\/360_F_123522471_XZe5ebqil1DFJRgOUJ6taDP4DnmHjtL7.jpg"
+    },
+    {
+        "name": "Cargo Truck",
+        "type": "truck",
+        "price": "3000000",
+        "image": "https:\/\/media.istockphoto.com\/id\/1334928637\/photo\/white-truck-driving-on-the-asphalt-road-in-rural-landscape-at-sunset.jpg?s=612x612&w=0&k=20&c=qCqI4F8M_WeKfvoKMqKGD7Fh6qfJZFoOJ11pKuiogd4="
+    }
+]
